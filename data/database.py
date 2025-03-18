@@ -7,5 +7,5 @@ database = mysql.connector.connect(
     ssl_disabled  = True,      # Puerto por defecto de MySQL
     user = 'root',        # Usuario de MySQL
     password = 'strong_password',  # La contraseña que configuraste
-    database = 'mysql'    # Puedes cambiarlo al nombre de tu base de datos
+    database = 'tabla_prueba'    # Puedes cambiarlo al nombre de tu base de datos
 )
